@@ -1,0 +1,1201 @@
+temperature_c,humidity_percent,room_status
+34.8,62.5,Too Hot
+24.0,61.3,Comfortable
+37.5,82.1,Too Hot
+32.3,73.3,Too Hot
+13.0,22.0,Too Cold
+41.2,23.7,Too Hot
+34.4,65.1,Too Hot
+35.2,56.5,Too Hot
+14.1,39.5,Too Cold
+24.4,51.4,Comfortable
+21.9,76.8,Comfortable
+39.7,82.0,Too Hot
+30.6,62.1,Too Hot
+36.3,48.9,Too Hot
+24.2,40.3,Comfortable
+17.3,59.1,Too Cold
+27.7,43.6,Comfortable
+12.0,62.3,Too Cold
+36.5,70.7,Too Hot
+30.2,25.0,Too Hot
+34.3,20.1,Too Hot
+21.3,35.9,Comfortable
+41.1,87.1,Too Hot
+38.6,68.5,Too Hot
+34.9,32.9,Too Hot
+16.2,86.8,Too Cold
+24.9,55.2,Comfortable
+11.4,55.7,Too Cold
+14.9,90.2,Too Cold
+31.9,24.5,Too Hot
+33.8,36.1,Too Hot
+41.0,63.9,Too Hot
+20.4,34.7,Comfortable
+21.9,71.0,Comfortable
+25.0,36.1,Comfortable
+16.1,27.4,Too Cold
+14.2,35.5,Too Cold
+25.2,51.7,Comfortable
+17.3,33.2,Too Cold
+31.4,30.1,Too Hot
+24.0,84.5,Comfortable
+36.6,44.0,Too Hot
+32.4,47.1,Too Hot
+20.0,24.1,Comfortable
+36.6,46.8,Too Hot
+35.8,39.9,Too Hot
+22.4,65.8,Comfortable
+19.2,35.4,Comfortable
+31.8,86.6,Too Hot
+14.5,89.7,Too Cold
+16.4,27.5,Too Cold
+10.2,28.1,Too Cold
+35.2,28.6,Too Hot
+31.3,66.5,Too Hot
+32.6,29.1,Too Hot
+35.0,83.9,Too Hot
+24.7,76.6,Comfortable
+28.2,81.5,Too Hot
+14.5,59.5,Too Cold
+13.7,94.8,Too Cold
+31.4,23.3,Too Hot
+25.1,50.1,Comfortable
+28.1,44.3,Comfortable
+34.5,91.1,Too Hot
+30.3,63.3,Too Hot
+27.7,80.5,Too Hot
+27.9,32.8,Comfortable
+19.7,93.4,Comfortable
+11.0,57.4,Too Cold
+24.0,57.0,Comfortable
+16.9,92.8,Too Cold
+23.1,48.6,Comfortable
+37.3,49.8,Too Hot
+17.5,63.9,Too Cold
+11.9,29.6,Too Cold
+19.0,44.1,Comfortable
+19.4,34.5,Comfortable
+31.2,27.7,Too Hot
+27.8,85.0,Too Hot
+35.1,64.2,Too Hot
+31.3,46.9,Too Hot
+23.0,50.7,Comfortable
+36.0,52.4,Too Hot
+15.3,67.5,Too Cold
+10.7,89.5,Too Cold
+12.9,90.0,Too Cold
+33.1,49.4,Too Hot
+24.8,44.7,Comfortable
+15.2,53.8,Too Cold
+26.0,62.6,Comfortable
+14.9,54.6,Too Cold
+32.3,69.4,Too Hot
+24.3,61.6,Comfortable
+22.2,44.1,Comfortable
+19.6,45.9,Comfortable
+30.2,48.4,Too Hot
+21.6,27.1,Comfortable
+12.8,32.5,Too Cold
+13.8,74.2,Too Cold
+40.8,49.2,Too Hot
+39.1,36.1,Too Hot
+32.4,62.2,Too Hot
+18.5,76.7,Comfortable
+41.0,39.3,Too Hot
+34.9,82.0,Too Hot
+32.9,89.6,Too Hot
+24.4,64.8,Comfortable
+18.7,70.2,Comfortable
+13.1,23.9,Too Cold
+38.9,90.9,Too Hot
+24.6,49.4,Comfortable
+16.5,89.3,Too Cold
+19.8,63.4,Comfortable
+28.5,20.3,Comfortable
+15.7,22.9,Too Cold
+37.4,71.0,Too Hot
+34.3,62.2,Too Hot
+33.0,22.0,Too Hot
+23.8,75.8,Comfortable
+30.1,83.9,Too Hot
+28.7,57.2,Comfortable
+30.8,54.9,Too Hot
+12.7,20.4,Too Cold
+23.3,79.0,Comfortable
+11.3,44.8,Too Cold
+25.8,85.9,Too Hot
+20.6,48.0,Comfortable
+14.6,62.4,Too Cold
+13.3,40.3,Too Cold
+28.8,32.0,Comfortable
+15.5,78.1,Too Cold
+39.6,57.2,Too Hot
+28.6,60.2,Comfortable
+21.1,92.4,Comfortable
+28.9,92.3,Too Hot
+10.7,84.2,Too Cold
+40.7,34.1,Too Hot
+25.4,64.6,Comfortable
+35.0,85.9,Too Hot
+12.6,48.1,Too Cold
+25.6,27.6,Comfortable
+25.7,80.8,Too Hot
+40.0,56.1,Too Hot
+28.3,62.3,Comfortable
+25.2,93.7,Too Hot
+18.5,65.5,Comfortable
+20.6,51.9,Comfortable
+26.7,47.7,Comfortable
+24.0,51.3,Comfortable
+10.7,28.9,Too Cold
+36.4,79.6,Too Hot
+38.7,82.8,Too Hot
+14.5,41.3,Too Cold
+27.7,42.8,Comfortable
+13.5,85.6,Too Cold
+31.5,21.8,Too Hot
+19.0,59.0,Comfortable
+31.1,54.8,Too Hot
+33.3,71.8,Too Hot
+34.6,32.3,Too Hot
+13.4,70.1,Too Cold
+39.3,48.3,Too Hot
+17.4,66.4,Too Cold
+11.2,23.0,Too Cold
+27.8,54.6,Comfortable
+21.9,59.2,Comfortable
+36.6,36.1,Too Hot
+35.9,30.5,Too Hot
+20.1,34.1,Comfortable
+40.5,45.8,Too Hot
+19.3,27.3,Comfortable
+26.5,91.0,Too Hot
+18.2,50.4,Comfortable
+40.0,80.7,Too Hot
+15.3,93.1,Too Cold
+11.4,26.1,Too Cold
+23.9,68.9,Comfortable
+41.8,85.4,Too Hot
+38.5,67.6,Too Hot
+34.0,52.2,Too Hot
+38.5,52.3,Too Hot
+38.6,22.7,Too Hot
+26.6,60.1,Comfortable
+20.1,94.5,Comfortable
+34.7,91.9,Too Hot
+31.2,23.0,Too Hot
+22.0,72.9,Comfortable
+13.0,42.6,Too Cold
+33.9,87.7,Too Hot
+18.4,23.4,Comfortable
+40.0,90.2,Too Hot
+17.7,82.8,Too Cold
+13.9,28.8,Too Cold
+36.6,24.5,Too Hot
+14.9,82.6,Too Cold
+15.7,31.7,Too Cold
+29.2,60.1,Comfortable
+38.0,88.7,Too Hot
+16.3,62.6,Too Cold
+19.9,49.8,Comfortable
+34.9,53.4,Too Hot
+41.1,24.7,Too Hot
+26.0,92.7,Too Hot
+14.6,43.3,Too Cold
+10.4,34.2,Too Cold
+17.3,41.5,Too Cold
+14.2,92.3,Too Cold
+31.7,27.1,Too Hot
+13.9,85.0,Too Cold
+26.2,73.1,Comfortable
+32.2,82.3,Too Hot
+28.6,93.2,Too Hot
+16.4,83.2,Too Cold
+35.7,90.8,Too Hot
+32.9,29.5,Too Hot
+33.6,79.7,Too Hot
+14.2,60.9,Too Cold
+14.0,60.8,Too Cold
+39.7,87.4,Too Hot
+22.7,92.9,Comfortable
+19.6,72.9,Comfortable
+25.6,56.2,Comfortable
+31.2,54.2,Too Hot
+40.6,49.0,Too Hot
+19.2,47.1,Comfortable
+39.6,49.4,Too Hot
+10.8,26.7,Too Cold
+27.8,25.8,Comfortable
+30.3,78.5,Too Hot
+13.4,53.5,Too Cold
+14.5,89.8,Too Cold
+23.4,65.9,Comfortable
+40.9,22.6,Too Hot
+29.1,31.8,Comfortable
+39.9,35.4,Too Hot
+35.7,93.2,Too Hot
+25.0,36.4,Comfortable
+35.1,58.7,Too Hot
+10.6,90.2,Too Cold
+13.5,93.3,Too Cold
+36.5,37.7,Too Hot
+35.5,23.7,Too Hot
+17.4,31.5,Too Cold
+27.0,24.7,Comfortable
+29.4,34.6,Comfortable
+37.8,62.6,Too Hot
+29.3,88.4,Too Hot
+23.2,60.3,Comfortable
+22.0,66.9,Comfortable
+23.6,35.1,Comfortable
+30.9,80.0,Too Hot
+37.8,66.3,Too Hot
+24.5,84.8,Comfortable
+17.9,91.2,Too Cold
+17.6,46.1,Too Cold
+33.9,26.8,Too Hot
+36.1,36.9,Too Hot
+13.4,52.8,Too Cold
+12.1,90.9,Too Cold
+29.0,48.4,Comfortable
+14.7,77.8,Too Cold
+36.4,60.5,Too Hot
+19.9,33.7,Comfortable
+14.6,44.1,Too Cold
+39.5,69.0,Too Hot
+15.3,70.5,Too Cold
+19.1,52.6,Comfortable
+14.9,37.1,Too Cold
+13.7,74.1,Too Cold
+10.7,32.7,Too Cold
+11.8,90.3,Too Cold
+15.6,34.1,Too Cold
+11.7,28.0,Too Cold
+28.9,57.3,Comfortable
+31.8,59.0,Too Hot
+22.6,58.1,Comfortable
+20.2,52.8,Comfortable
+26.1,94.6,Too Hot
+38.0,56.5,Too Hot
+37.2,55.8,Too Hot
+11.4,51.6,Too Cold
+15.8,25.0,Too Cold
+17.6,64.5,Too Cold
+18.0,37.1,Comfortable
+28.3,67.8,Comfortable
+23.3,23.8,Comfortable
+11.6,93.6,Too Cold
+22.0,55.2,Comfortable
+26.8,87.3,Too Hot
+13.3,55.7,Too Cold
+36.7,24.5,Too Hot
+11.7,81.7,Too Cold
+39.6,68.6,Too Hot
+13.2,78.6,Too Cold
+37.0,52.1,Too Hot
+38.9,67.8,Too Hot
+41.3,84.2,Too Hot
+35.7,67.3,Too Hot
+34.9,46.1,Too Hot
+30.6,69.7,Too Hot
+34.9,70.4,Too Hot
+14.3,92.0,Too Cold
+27.2,47.8,Comfortable
+26.5,51.9,Comfortable
+37.4,80.9,Too Hot
+24.8,57.9,Comfortable
+22.3,75.2,Comfortable
+30.5,54.5,Too Hot
+18.5,36.2,Comfortable
+14.5,75.9,Too Cold
+25.3,29.8,Comfortable
+23.3,34.9,Comfortable
+17.4,67.0,Too Cold
+21.8,76.0,Comfortable
+21.7,87.1,Comfortable
+20.5,40.4,Comfortable
+22.1,28.3,Comfortable
+31.9,91.7,Too Hot
+19.5,31.6,Comfortable
+40.4,34.8,Too Hot
+39.3,41.8,Too Hot
+25.4,59.7,Comfortable
+20.5,86.2,Comfortable
+27.1,77.0,Too Hot
+37.2,73.1,Too Hot
+30.9,33.1,Too Hot
+35.7,46.8,Too Hot
+27.0,55.9,Comfortable
+30.3,31.1,Too Hot
+19.2,40.5,Comfortable
+33.5,43.1,Too Hot
+16.5,29.5,Too Cold
+32.2,61.3,Too Hot
+37.5,72.9,Too Hot
+14.2,25.2,Too Cold
+29.7,56.1,Comfortable
+13.0,78.7,Too Cold
+33.2,76.1,Too Hot
+12.7,81.1,Too Cold
+40.0,53.6,Too Hot
+14.4,81.5,Too Cold
+40.7,38.1,Too Hot
+35.6,47.1,Too Hot
+29.0,33.2,Comfortable
+35.0,55.1,Too Hot
+35.4,49.4,Too Hot
+40.3,38.1,Too Hot
+18.1,76.4,Comfortable
+28.9,43.5,Comfortable
+13.0,40.5,Too Cold
+29.7,29.8,Comfortable
+15.5,52.9,Too Cold
+28.1,42.7,Comfortable
+28.3,47.7,Comfortable
+24.9,37.7,Comfortable
+26.7,77.2,Too Hot
+34.4,89.8,Too Hot
+35.6,57.3,Too Hot
+25.7,68.2,Comfortable
+29.2,85.0,Too Hot
+39.8,94.9,Too Hot
+13.8,66.0,Too Cold
+13.7,86.7,Too Cold
+12.8,88.1,Too Cold
+31.1,79.4,Too Hot
+23.4,54.6,Comfortable
+34.8,26.1,Too Hot
+31.5,21.2,Too Hot
+20.7,55.8,Comfortable
+38.7,57.1,Too Hot
+34.4,50.6,Too Hot
+18.7,62.6,Comfortable
+21.7,61.4,Comfortable
+20.1,82.7,Comfortable
+15.0,28.1,Too Cold
+14.7,36.9,Too Cold
+40.0,79.5,Too Hot
+24.0,83.6,Comfortable
+22.3,94.6,Comfortable
+33.3,85.5,Too Hot
+27.7,86.7,Too Hot
+40.0,43.6,Too Hot
+35.0,50.1,Too Hot
+25.3,40.1,Comfortable
+22.0,65.5,Comfortable
+41.6,90.4,Too Hot
+33.0,45.8,Too Hot
+40.4,61.8,Too Hot
+13.8,42.2,Too Cold
+37.2,32.7,Too Hot
+30.4,34.6,Too Hot
+13.9,24.3,Too Cold
+28.8,91.2,Too Hot
+32.0,50.2,Too Hot
+10.4,82.6,Too Cold
+24.5,71.1,Comfortable
+36.4,34.4,Too Hot
+19.5,33.2,Comfortable
+24.7,80.9,Comfortable
+24.2,39.9,Comfortable
+19.7,88.5,Comfortable
+39.4,30.5,Too Hot
+35.0,70.8,Too Hot
+13.5,81.1,Too Cold
+41.9,37.6,Too Hot
+38.1,40.7,Too Hot
+19.1,92.3,Comfortable
+36.8,39.8,Too Hot
+13.4,52.2,Too Cold
+42.0,52.4,Too Hot
+31.3,39.0,Too Hot
+30.8,78.2,Too Hot
+12.9,77.9,Too Cold
+38.7,48.4,Too Hot
+10.9,82.6,Too Cold
+17.7,36.0,Too Cold
+14.6,20.3,Too Cold
+34.9,62.8,Too Hot
+16.3,94.6,Too Cold
+39.1,22.9,Too Hot
+31.0,35.6,Too Hot
+11.2,58.9,Too Cold
+10.2,80.7,Too Cold
+11.7,26.7,Too Cold
+29.4,49.6,Comfortable
+35.6,76.0,Too Hot
+17.6,47.9,Too Cold
+37.2,34.2,Too Hot
+11.8,34.7,Too Cold
+35.6,50.8,Too Hot
+39.7,56.0,Too Hot
+34.7,84.6,Too Hot
+32.3,68.2,Too Hot
+36.8,71.8,Too Hot
+11.3,93.7,Too Cold
+16.5,50.9,Too Cold
+14.0,50.3,Too Cold
+26.1,89.3,Too Hot
+33.8,38.4,Too Hot
+30.2,74.7,Too Hot
+37.2,76.6,Too Hot
+15.0,27.3,Too Cold
+33.5,55.1,Too Hot
+16.2,35.0,Too Cold
+18.7,33.9,Comfortable
+32.7,54.8,Too Hot
+41.4,41.7,Too Hot
+29.6,79.7,Too Hot
+11.7,88.1,Too Cold
+29.7,80.2,Too Hot
+11.4,40.0,Too Cold
+38.3,40.6,Too Hot
+32.7,39.1,Too Hot
+15.5,30.1,Too Cold
+12.9,90.8,Too Cold
+15.9,50.2,Too Cold
+41.4,36.9,Too Hot
+24.7,83.5,Comfortable
+35.1,49.9,Too Hot
+30.4,22.6,Too Hot
+28.3,32.1,Comfortable
+14.6,67.9,Too Cold
+40.3,78.7,Too Hot
+19.6,35.8,Comfortable
+28.5,88.8,Too Hot
+32.4,83.8,Too Hot
+30.8,83.6,Too Hot
+40.1,37.1,Too Hot
+14.8,23.8,Too Cold
+26.3,85.1,Too Hot
+22.9,42.9,Comfortable
+25.2,66.4,Comfortable
+13.8,77.0,Too Cold
+14.3,29.6,Too Cold
+18.9,78.6,Comfortable
+19.8,90.4,Comfortable
+23.7,74.6,Comfortable
+29.6,53.1,Comfortable
+30.3,85.8,Too Hot
+23.2,59.6,Comfortable
+23.1,75.9,Comfortable
+17.0,81.5,Too Cold
+28.8,76.2,Too Hot
+20.1,41.6,Comfortable
+11.2,28.8,Too Cold
+23.4,37.9,Comfortable
+25.2,57.7,Comfortable
+17.2,57.9,Too Cold
+28.3,63.7,Comfortable
+28.1,49.6,Comfortable
+32.5,79.0,Too Hot
+30.7,88.5,Too Hot
+30.9,38.5,Too Hot
+20.1,75.2,Comfortable
+35.2,70.8,Too Hot
+27.6,59.2,Comfortable
+23.8,34.1,Comfortable
+30.0,79.6,Too Hot
+21.5,92.0,Comfortable
+26.4,74.1,Comfortable
+33.6,88.8,Too Hot
+38.4,93.8,Too Hot
+39.5,46.4,Too Hot
+26.1,67.9,Comfortable
+26.6,55.5,Comfortable
+35.6,94.0,Too Hot
+20.1,27.0,Comfortable
+36.8,50.9,Too Hot
+25.8,85.7,Too Hot
+13.7,41.3,Too Cold
+12.3,79.1,Too Cold
+36.9,48.7,Too Hot
+11.8,93.5,Too Cold
+19.0,86.3,Comfortable
+20.7,42.6,Comfortable
+15.5,77.8,Too Cold
+20.0,45.3,Comfortable
+33.8,65.5,Too Hot
+10.5,69.4,Too Cold
+36.5,82.2,Too Hot
+37.4,21.8,Too Hot
+21.9,36.5,Comfortable
+14.9,73.4,Too Cold
+29.2,62.3,Comfortable
+13.8,57.2,Too Cold
+21.7,24.1,Comfortable
+40.7,46.1,Too Hot
+41.9,84.9,Too Hot
+34.7,22.3,Too Hot
+20.0,49.7,Comfortable
+32.0,90.9,Too Hot
+32.6,23.8,Too Hot
+22.4,76.2,Comfortable
+30.5,39.3,Too Hot
+10.3,85.0,Too Cold
+16.7,76.0,Too Cold
+26.8,86.4,Too Hot
+15.2,36.2,Too Cold
+15.3,59.8,Too Cold
+36.8,78.4,Too Hot
+41.7,38.4,Too Hot
+27.8,37.3,Comfortable
+36.9,22.0,Too Hot
+41.7,91.9,Too Hot
+14.5,73.3,Too Cold
+24.3,67.7,Comfortable
+22.6,75.8,Comfortable
+12.6,59.9,Too Cold
+34.2,55.7,Too Hot
+23.9,53.7,Comfortable
+25.0,68.0,Comfortable
+14.8,35.1,Too Cold
+15.8,86.6,Too Cold
+39.0,80.9,Too Hot
+11.4,46.2,Too Cold
+17.5,63.4,Too Cold
+19.3,30.6,Comfortable
+25.7,92.9,Too Hot
+28.8,87.7,Too Hot
+25.8,89.1,Too Hot
+12.7,44.9,Too Cold
+17.8,32.7,Too Cold
+37.0,35.9,Too Hot
+30.4,26.8,Too Hot
+30.8,29.0,Too Hot
+31.4,25.3,Too Hot
+34.4,94.2,Too Hot
+11.9,25.6,Too Cold
+21.7,29.9,Comfortable
+27.3,82.0,Too Hot
+20.8,63.5,Comfortable
+37.0,78.1,Too Hot
+25.4,67.3,Comfortable
+34.6,86.2,Too Hot
+37.3,67.9,Too Hot
+26.2,59.2,Comfortable
+39.1,73.5,Too Hot
+28.8,53.6,Comfortable
+37.2,46.0,Too Hot
+20.9,55.1,Comfortable
+26.0,32.7,Comfortable
+27.0,79.7,Too Hot
+13.4,39.6,Too Cold
+22.8,31.5,Comfortable
+39.4,38.5,Too Hot
+30.2,83.2,Too Hot
+15.7,44.8,Too Cold
+20.8,71.5,Comfortable
+16.1,84.2,Too Cold
+10.8,25.8,Too Cold
+39.7,77.4,Too Hot
+24.3,43.1,Comfortable
+19.8,36.2,Comfortable
+29.2,71.7,Comfortable
+10.2,88.2,Too Cold
+18.9,42.1,Comfortable
+32.5,62.7,Too Hot
+30.3,41.7,Too Hot
+41.4,61.6,Too Hot
+29.9,66.6,Comfortable
+25.3,65.8,Comfortable
+34.4,66.8,Too Hot
+38.9,30.1,Too Hot
+33.1,72.0,Too Hot
+40.8,70.6,Too Hot
+35.0,71.2,Too Hot
+37.7,25.6,Too Hot
+13.7,53.5,Too Cold
+33.4,50.7,Too Hot
+24.1,26.5,Comfortable
+27.7,36.7,Comfortable
+30.9,53.1,Too Hot
+41.0,75.7,Too Hot
+41.5,37.8,Too Hot
+19.2,82.2,Comfortable
+33.5,60.9,Too Hot
+34.0,77.0,Too Hot
+21.1,55.4,Comfortable
+14.0,57.4,Too Cold
+11.3,66.5,Too Cold
+34.9,89.6,Too Hot
+25.7,56.9,Comfortable
+41.5,59.6,Too Hot
+24.9,65.1,Comfortable
+41.3,75.3,Too Hot
+23.2,25.4,Comfortable
+35.4,58.7,Too Hot
+12.7,56.1,Too Cold
+27.8,89.1,Too Hot
+35.7,57.0,Too Hot
+39.6,55.1,Too Hot
+36.3,92.2,Too Hot
+11.2,53.8,Too Cold
+21.9,33.6,Comfortable
+11.6,36.3,Too Cold
+13.5,27.1,Too Cold
+31.6,20.0,Too Hot
+32.8,52.4,Too Hot
+34.8,77.7,Too Hot
+37.7,75.0,Too Hot
+33.7,22.4,Too Hot
+35.6,62.7,Too Hot
+11.6,31.6,Too Cold
+17.5,90.6,Too Cold
+29.9,32.6,Comfortable
+37.5,67.0,Too Hot
+10.1,44.5,Too Cold
+26.5,68.1,Comfortable
+31.7,50.9,Too Hot
+10.9,77.0,Too Cold
+22.8,37.3,Comfortable
+38.7,87.9,Too Hot
+31.5,57.5,Too Hot
+17.6,76.7,Too Cold
+37.3,83.7,Too Hot
+21.1,94.9,Comfortable
+37.3,36.8,Too Hot
+19.6,41.5,Comfortable
+28.9,38.8,Comfortable
+22.7,39.7,Comfortable
+18.8,63.7,Comfortable
+38.4,94.5,Too Hot
+16.0,94.3,Too Cold
+12.7,59.5,Too Cold
+20.9,67.9,Comfortable
+33.0,84.5,Too Hot
+35.8,90.0,Too Hot
+42.0,35.3,Too Hot
+19.5,59.6,Comfortable
+23.1,82.5,Comfortable
+14.4,42.7,Too Cold
+28.4,53.0,Comfortable
+41.9,93.9,Too Hot
+32.4,93.9,Too Hot
+29.0,88.0,Too Hot
+22.6,79.9,Comfortable
+39.3,40.2,Too Hot
+25.9,44.1,Comfortable
+14.3,61.0,Too Cold
+21.7,62.1,Comfortable
+12.1,57.9,Too Cold
+16.5,67.8,Too Cold
+10.6,50.6,Too Cold
+24.5,76.2,Comfortable
+30.3,45.0,Too Hot
+21.0,44.8,Comfortable
+23.5,29.5,Comfortable
+40.7,34.2,Too Hot
+34.1,83.8,Too Hot
+27.3,53.5,Comfortable
+19.1,37.1,Comfortable
+38.7,77.0,Too Hot
+17.5,61.5,Too Cold
+20.4,21.6,Comfortable
+39.1,43.7,Too Hot
+26.9,33.3,Comfortable
+33.8,69.2,Too Hot
+28.9,40.6,Comfortable
+30.9,24.9,Too Hot
+19.6,24.1,Comfortable
+17.7,63.6,Too Cold
+20.3,21.6,Comfortable
+15.0,83.7,Too Cold
+38.0,31.7,Too Hot
+19.1,65.5,Comfortable
+28.0,53.4,Comfortable
+35.3,53.2,Too Hot
+35.1,25.4,Too Hot
+24.0,80.2,Comfortable
+25.2,87.0,Too Hot
+41.8,20.8,Too Hot
+31.6,33.4,Too Hot
+36.1,87.8,Too Hot
+38.9,61.2,Too Hot
+35.2,31.3,Too Hot
+15.9,35.2,Too Cold
+28.0,69.5,Comfortable
+13.3,74.4,Too Cold
+30.9,65.0,Too Hot
+40.6,91.5,Too Hot
+26.4,57.1,Comfortable
+23.9,42.5,Comfortable
+11.1,55.8,Too Cold
+40.7,47.0,Too Hot
+13.3,36.8,Too Cold
+11.3,23.4,Too Cold
+17.9,46.4,Too Cold
+12.1,73.4,Too Cold
+24.6,21.4,Comfortable
+26.5,52.9,Comfortable
+20.0,68.3,Comfortable
+11.6,65.8,Too Cold
+13.6,78.2,Too Cold
+22.3,80.8,Comfortable
+11.9,73.4,Too Cold
+32.3,27.7,Too Hot
+16.6,55.6,Too Cold
+19.7,65.3,Comfortable
+22.6,38.4,Comfortable
+23.3,23.2,Comfortable
+10.1,36.8,Too Cold
+13.6,54.1,Too Cold
+37.6,51.0,Too Hot
+10.0,33.3,Too Cold
+26.3,81.8,Too Hot
+25.7,89.4,Too Hot
+20.7,35.1,Comfortable
+23.8,89.7,Comfortable
+35.0,21.3,Too Hot
+36.9,89.4,Too Hot
+18.3,91.4,Comfortable
+20.3,20.9,Comfortable
+17.8,77.2,Too Cold
+25.4,92.8,Too Hot
+31.9,87.9,Too Hot
+17.3,92.8,Too Cold
+20.6,61.3,Comfortable
+39.8,25.9,Too Hot
+11.6,83.7,Too Cold
+24.7,66.0,Comfortable
+32.8,66.1,Too Hot
+14.8,51.3,Too Cold
+11.5,62.9,Too Cold
+14.4,31.5,Too Cold
+39.4,75.5,Too Hot
+10.3,25.6,Too Cold
+16.0,74.7,Too Cold
+11.0,83.7,Too Cold
+13.5,55.4,Too Cold
+29.8,58.2,Comfortable
+17.7,43.4,Too Cold
+28.2,92.7,Too Hot
+28.9,75.0,Comfortable
+37.2,47.7,Too Hot
+10.2,33.1,Too Cold
+37.3,36.5,Too Hot
+29.8,54.8,Comfortable
+15.2,90.7,Too Cold
+34.7,75.1,Too Hot
+37.4,36.1,Too Hot
+18.1,84.5,Comfortable
+39.4,48.4,Too Hot
+24.5,83.9,Comfortable
+29.3,38.1,Comfortable
+41.5,66.4,Too Hot
+21.6,89.5,Comfortable
+36.0,39.3,Too Hot
+20.2,72.0,Comfortable
+35.6,94.0,Too Hot
+29.2,31.3,Comfortable
+16.9,26.6,Too Cold
+23.2,70.6,Comfortable
+20.2,45.5,Comfortable
+12.5,25.3,Too Cold
+11.0,55.6,Too Cold
+21.1,76.5,Comfortable
+10.6,41.4,Too Cold
+15.3,45.1,Too Cold
+33.2,83.4,Too Hot
+32.7,59.0,Too Hot
+33.6,83.2,Too Hot
+20.1,53.5,Comfortable
+38.5,91.5,Too Hot
+29.0,68.8,Comfortable
+14.0,28.7,Too Cold
+14.6,86.4,Too Cold
+32.2,56.7,Too Hot
+15.5,30.6,Too Cold
+26.2,31.5,Comfortable
+41.7,71.6,Too Hot
+10.1,23.6,Too Cold
+10.5,41.5,Too Cold
+41.8,30.5,Too Hot
+28.7,53.1,Comfortable
+14.1,51.1,Too Cold
+38.7,59.1,Too Hot
+38.2,41.0,Too Hot
+27.2,22.4,Comfortable
+29.9,66.1,Comfortable
+18.7,48.0,Comfortable
+11.6,68.9,Too Cold
+29.0,28.2,Comfortable
+19.4,21.0,Comfortable
+31.2,38.6,Too Hot
+36.8,54.2,Too Hot
+10.6,49.6,Too Cold
+29.1,80.8,Too Hot
+17.4,48.3,Too Cold
+38.0,59.8,Too Hot
+18.1,64.5,Comfortable
+29.5,21.6,Comfortable
+27.7,58.6,Comfortable
+22.7,45.9,Comfortable
+31.7,51.6,Too Hot
+33.2,27.5,Too Hot
+28.1,78.7,Too Hot
+34.3,90.7,Too Hot
+41.5,21.7,Too Hot
+23.4,65.1,Comfortable
+26.5,77.3,Too Hot
+10.4,41.4,Too Cold
+35.5,79.1,Too Hot
+26.6,67.4,Comfortable
+23.1,89.7,Comfortable
+13.0,93.6,Too Cold
+38.5,23.2,Too Hot
+22.6,53.4,Comfortable
+31.8,61.0,Too Hot
+14.8,31.0,Too Cold
+40.8,45.2,Too Hot
+15.7,94.1,Too Cold
+16.4,21.2,Too Cold
+37.5,53.9,Too Hot
+39.2,83.2,Too Hot
+16.8,44.3,Too Cold
+25.0,56.0,Comfortable
+33.5,93.4,Too Hot
+38.1,55.6,Too Hot
+22.1,29.8,Comfortable
+26.5,23.9,Comfortable
+33.7,90.9,Too Hot
+33.4,39.9,Too Hot
+35.1,57.8,Too Hot
+28.2,26.8,Comfortable
+13.3,51.8,Too Cold
+38.9,89.8,Too Hot
+37.7,57.7,Too Hot
+35.5,92.8,Too Hot
+13.2,39.4,Too Cold
+16.5,57.8,Too Cold
+33.8,84.5,Too Hot
+10.7,53.6,Too Cold
+41.3,41.0,Too Hot
+22.1,84.2,Comfortable
+33.0,49.2,Too Hot
+38.4,59.8,Too Hot
+22.6,93.2,Comfortable
+20.2,34.0,Comfortable
+29.5,42.6,Comfortable
+28.6,22.3,Comfortable
+23.1,49.4,Comfortable
+29.3,35.0,Comfortable
+39.9,71.0,Too Hot
+25.0,33.6,Comfortable
+16.3,70.6,Too Cold
+22.1,39.8,Comfortable
+22.6,46.6,Comfortable
+14.2,46.2,Too Cold
+15.2,73.8,Too Cold
+31.9,55.0,Too Hot
+20.9,47.1,Comfortable
+40.6,83.9,Too Hot
+17.8,62.9,Too Cold
+13.2,36.0,Too Cold
+34.1,87.5,Too Hot
+38.2,45.7,Too Hot
+18.9,22.9,Comfortable
+16.5,57.1,Too Cold
+15.9,29.3,Too Cold
+26.7,37.9,Comfortable
+25.0,76.0,Too Hot
+18.3,29.8,Comfortable
+11.4,80.5,Too Cold
+25.4,90.3,Too Hot
+40.7,65.5,Too Hot
+30.9,73.3,Too Hot
+25.9,73.5,Comfortable
+13.5,94.5,Too Cold
+18.1,45.6,Comfortable
+19.4,32.2,Comfortable
+34.5,58.9,Too Hot
+38.1,60.0,Too Hot
+38.9,33.3,Too Hot
+41.5,66.0,Too Hot
+41.4,21.1,Too Hot
+40.5,89.6,Too Hot
+12.3,39.8,Too Cold
+14.4,23.0,Too Cold
+19.7,28.1,Comfortable
+27.7,38.0,Comfortable
+13.1,40.5,Too Cold
+37.1,22.5,Too Hot
+29.7,41.0,Comfortable
+27.4,34.5,Comfortable
+15.3,48.4,Too Cold
+18.1,48.9,Comfortable
+15.1,45.4,Too Cold
+37.3,44.6,Too Hot
+28.7,26.7,Comfortable
+33.5,21.9,Too Hot
+19.5,35.2,Comfortable
+21.9,76.7,Comfortable
+23.0,94.3,Comfortable
+34.3,89.6,Too Hot
+34.7,57.8,Too Hot
+16.6,59.9,Too Cold
+40.1,43.6,Too Hot
+13.9,78.0,Too Cold
+38.7,77.4,Too Hot
+13.2,83.3,Too Cold
+18.5,87.2,Comfortable
+37.1,52.6,Too Hot
+15.7,77.5,Too Cold
+23.2,80.5,Comfortable
+24.4,43.1,Comfortable
+17.8,89.7,Too Cold
+32.7,27.1,Too Hot
+37.2,94.6,Too Hot
+38.0,77.8,Too Hot
+20.9,27.0,Comfortable
+27.0,69.2,Comfortable
+17.9,22.6,Too Cold
+17.8,77.8,Too Cold
+15.2,79.9,Too Cold
+40.1,65.2,Too Hot
+38.4,84.3,Too Hot
+34.9,27.3,Too Hot
+26.6,40.7,Comfortable
+25.7,51.1,Comfortable
+27.0,23.2,Comfortable
+27.2,53.6,Comfortable
+23.9,39.9,Comfortable
+14.2,49.5,Too Cold
+14.0,51.9,Too Cold
+40.5,86.0,Too Hot
+25.4,40.3,Comfortable
+40.5,87.0,Too Hot
+15.2,51.9,Too Cold
+27.7,44.6,Comfortable
+16.6,57.7,Too Cold
+18.1,51.3,Comfortable
+11.0,39.3,Too Cold
+13.8,57.7,Too Cold
+39.3,31.4,Too Hot
+20.3,46.4,Comfortable
+29.5,62.4,Comfortable
+24.9,51.0,Comfortable
+22.8,81.8,Comfortable
+27.0,39.3,Comfortable
+16.0,92.7,Too Cold
+41.6,78.9,Too Hot
+36.2,92.6,Too Hot
+33.7,82.9,Too Hot
+25.0,30.7,Comfortable
+14.9,59.5,Too Cold
+39.5,32.7,Too Hot
+20.9,81.4,Comfortable
+11.6,63.8,Too Cold
+21.0,39.8,Comfortable
+35.4,89.7,Too Hot
+29.9,28.6,Comfortable
+34.0,62.3,Too Hot
+35.4,74.1,Too Hot
+16.8,24.4,Too Cold
+39.6,64.8,Too Hot
+24.0,81.2,Comfortable
+30.4,25.1,Too Hot
+10.1,58.4,Too Cold
+41.8,39.4,Too Hot
+19.0,69.7,Comfortable
+12.0,28.9,Too Cold
+24.7,90.3,Comfortable
+14.1,87.1,Too Cold
+14.9,33.9,Too Cold
+30.2,44.2,Too Hot
+22.6,64.1,Comfortable
+39.5,73.9,Too Hot
+20.2,53.2,Comfortable
+33.2,31.7,Too Hot
+24.8,27.8,Comfortable
+31.1,95.0,Too Hot
+29.2,54.2,Comfortable
+25.1,85.4,Too Hot
+40.4,56.2,Too Hot
+21.0,89.2,Comfortable
+15.7,26.6,Too Cold
+31.7,28.6,Too Hot
+37.1,89.7,Too Hot
+11.3,91.1,Too Cold
+24.4,43.6,Comfortable
+38.6,46.6,Too Hot
+34.0,53.9,Too Hot
+41.7,51.2,Too Hot
+27.0,34.3,Comfortable
+31.1,87.4,Too Hot
+19.7,39.0,Comfortable
+40.3,72.9,Too Hot
+21.7,25.0,Comfortable
+33.6,22.9,Too Hot
+22.9,69.0,Comfortable
+28.0,45.4,Comfortable
+33.0,69.2,Too Hot
+26.3,27.1,Comfortable
+39.0,91.2,Too Hot
+23.4,76.1,Comfortable
+30.7,85.7,Too Hot
+21.0,30.2,Comfortable
+23.1,44.0,Comfortable
+24.1,47.6,Comfortable
+14.0,60.3,Too Cold
+12.9,42.3,Too Cold
+31.4,24.5,Too Hot
+31.0,47.7,Too Hot
+31.2,39.1,Too Hot
+10.6,48.9,Too Cold
+20.4,34.8,Comfortable
+16.3,39.6,Too Cold
+34.9,67.0,Too Hot
+37.5,49.1,Too Hot
+17.9,45.9,Too Cold
+31.4,60.0,Too Hot
+14.1,77.9,Too Cold
+18.8,48.4,Comfortable
+14.4,64.1,Too Cold
+19.1,92.5,Comfortable
+31.6,59.1,Too Hot
+39.1,88.2,Too Hot
+16.5,79.5,Too Cold
+27.3,24.4,Comfortable
+32.4,52.2,Too Hot
+40.5,72.4,Too Hot
+29.5,94.0,Too Hot
+18.2,54.4,Comfortable
+30.0,27.0,Comfortable
+20.3,62.2,Comfortable
+41.2,29.5,Too Hot
+22.8,76.4,Comfortable
+31.9,58.1,Too Hot
+10.7,74.3,Too Cold
+22.8,85.2,Comfortable
+38.0,67.2,Too Hot
+29.5,65.9,Comfortable
+24.2,76.6,Comfortable
+39.9,83.2,Too Hot
+37.3,85.2,Too Hot
+20.3,22.7,Comfortable
+27.4,61.7,Comfortable
+25.7,36.2,Comfortable
+30.2,84.5,Too Hot
+20.7,68.6,Comfortable
+17.8,51.5,Too Cold
+39.2,34.1,Too Hot
+39.6,45.4,Too Hot
+37.0,72.8,Too Hot
+41.3,35.3,Too Hot
+33.8,27.0,Too Hot
+34.5,86.6,Too Hot
+34.4,77.3,Too Hot
+25.4,35.0,Comfortable
+24.6,41.9,Comfortable
+17.7,92.9,Too Cold
+30.6,73.1,Too Hot
+19.3,65.8,Comfortable
+18.2,43.1,Comfortable
+28.8,42.4,Comfortable
+23.1,23.0,Comfortable
+17.0,74.6,Too Cold
+36.1,23.2,Too Hot
+37.5,20.4,Too Hot
+15.4,74.7,Too Cold
+10.2,91.2,Too Cold
+20.8,76.7,Comfortable
+35.5,55.4,Too Hot
+36.9,56.5,Too Hot
+14.4,52.7,Too Cold
+34.8,44.3,Too Hot
+13.7,59.1,Too Cold
+22.5,52.3,Comfortable
+42.0,64.9,Too Hot
+16.2,87.4,Too Cold
+14.9,94.6,Too Cold
+23.5,25.9,Comfortable
+29.8,48.9,Comfortable
+39.9,33.6,Too Hot
+41.4,46.4,Too Hot
+12.2,41.6,Too Cold
+14.4,33.1,Too Cold
+35.3,77.3,Too Hot
+18.7,57.2,Comfortable
+38.3,88.9,Too Hot
+31.2,22.4,Too Hot
+13.6,25.0,Too Cold
+36.6,50.2,Too Hot
+15.6,26.0,Too Cold
+23.6,39.7,Comfortable
+27.7,94.0,Too Hot
+26.0,35.7,Comfortable
+32.0,34.9,Too Hot
+30.9,63.0,Too Hot
+41.7,57.3,Too Hot
+42.0,63.5,Too Hot
+26.5,48.3,Comfortable
+13.0,82.0,Too Cold
+33.3,30.4,Too Hot
+41.3,52.1,Too Hot
+20.2,71.7,Comfortable
+24.8,85.1,Comfortable
+23.6,47.7,Comfortable
+11.6,62.6,Too Cold
+31.5,25.2,Too Hot
+21.3,32.8,Comfortable
+35.2,25.2,Too Hot
+36.6,74.6,Too Hot
+36.3,41.6,Too Hot
+23.3,74.3,Comfortable
+20.3,25.0,Comfortable
+34.0,84.7,Too Hot
+35.6,82.7,Too Hot
+25.7,26.7,Comfortable
+38.6,21.8,Too Hot
+14.6,24.2,Too Cold
+38.1,84.0,Too Hot
+13.1,37.6,Too Cold
+14.9,61.1,Too Cold
+27.1,52.0,Comfortable
+12.2,79.7,Too Cold
+11.7,56.7,Too Cold
+10.0,57.5,Too Cold
+24.0,94.2,Comfortable
+34.8,31.3,Too Hot
+11.1,82.3,Too Cold
+30.9,23.9,Too Hot
+36.3,55.8,Too Hot
+15.4,86.5,Too Cold
+14.7,69.9,Too Cold
+37.5,71.4,Too Hot
+36.3,39.7,Too Hot
+27.2,51.4,Comfortable
+36.2,47.5,Too Hot
+13.0,59.1,Too Cold
+22.6,54.7,Comfortable
+33.6,44.5,Too Hot
+18.2,42.9,Comfortable
+34.1,38.8,Too Hot
+26.1,47.4,Comfortable
+34.0,31.2,Too Hot
+24.9,85.4,Comfortable
+21.8,65.2,Comfortable
+17.0,30.0,Too Cold
+16.7,72.0,Too Cold
+34.0,83.6,Too Hot
+13.8,37.8,Too Cold
+12.8,31.3,Too Cold
+15.6,20.6,Too Cold
+15.6,23.5,Too Cold
+36.3,77.2,Too Hot
+22.8,94.0,Comfortable
+41.7,23.4,Too Hot
+14.4,76.1,Too Cold
+30.9,25.4,Too Hot
+24.4,64.4,Comfortable
+22.6,76.7,Comfortable
+38.0,46.9,Too Hot
+41.2,20.8,Too Hot
+37.9,64.6,Too Hot
+16.2,94.3,Too Cold
+17.1,39.3,Too Cold
+31.0,34.2,Too Hot
+19.3,29.3,Comfortable
+33.5,61.6,Too Hot
